@@ -46,6 +46,10 @@ you can find log in LogCat
 ```
 gradlew :module:assembleRelease
 ```
+可以自己建一个build,之后run得到了release,直接编译得到的是debug版本
+![image](https://github.com/rickbrian/Zygisk-ModuleTemplate/assets/91403666/34b5ac1f-509e-49cc-9e8d-8b22f3bfcaab)
+
+
 或者双击
 ```
 build.bat
